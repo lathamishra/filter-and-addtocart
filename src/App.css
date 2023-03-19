@@ -1,0 +1,20 @@
+ul {
+  background-color: azure;
+  padding: 20px;
+}
+
+ul li{
+  display: inline;
+  padding: 20px;
+  cursor: pointer;
+}
+
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  align-content: center;
+    background-color: azure;
+
+}
